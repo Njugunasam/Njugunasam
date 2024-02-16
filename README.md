@@ -1,10 +1,4 @@
-<div style="position: relative;">
-  <img src="./banner.jpg" alt="Banner" style="width: 100%; height: auto;">
-  <img src="./profile.jpg" alt="Profile Image" style="position: absolute; top: 5px; left: 50%; transform: translateX(-210%); width: 140px; height: 140px; border-radius: 50%;">
-  <div style="position: absolute; top: 165px; left: 84px; color: white; font-size: 18px; font-weight: bold;">
-    Samuel Njuguna
-  </div>
-</div>
+![samuel Njuguna](/banner.png)
 
 ### Hi, I'm Samuel! 👨‍💻! 👋
 
