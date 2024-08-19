@@ -1,4 +1,4 @@
-![samuel Njuguna](/banner.png)
+![samuel Njuguna])
 
 ### Hi, I'm Samuel! 👨‍💻! 👋
 
